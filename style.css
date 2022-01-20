@@ -118,7 +118,7 @@ header{
   transition: all 0.2s linear;
 }
 
-.login a i{
+.login i{
   position: absolute;
   right: 57px;
   top: 45px;
@@ -127,7 +127,7 @@ header{
   padding: 5px;
 }
 
-.login a p{
+.login p{
     font-weight: bold;
     position: absolute;
     right: 30px;
